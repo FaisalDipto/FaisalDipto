@@ -39,11 +39,11 @@
 
 ### 🚀 High-Impact Architecture
 
-* **[L7 Enterprise API Gateway](#)**: Engineered a fault-tolerant routing layer orchestrating distributed microservices and dynamic rate limiting using Go, Docker, and lock-free atomic primitives.
-* **[Enterprise IDP & Dispatch Network](#)**: Architected a centralized authentication and event routing system processing 10,000+ concurrent requests with sub-millisecond latency.
-* **[Zuka Sensei AI](#)**: Built a decoupled, context-aware Chrome extension powered by a high-performance Go REST API to orchestrate multipart payloads and Generative AI Vision responses.
-* **[Production-Ready Todo API](#)**: Designed an enterprise-grade backend enforcing strict Standard Go Layout boundaries with a custom middleware chain and automated CI/CD pipelines.
-* **[LYFFLOW Social Automation](#)**: Engineered a high-performance SaaS frontend integrating complex media handling into an API-driven React 19 dashboard.
+* **[L7 Enterprise API Gateway](https://github.com/FaisalDipto/L7-Reverse-Proxy-Engine)**: Engineered a fault-tolerant routing layer orchestrating distributed microservices and dynamic rate limiting using Go, Docker, and lock-free atomic primitives.
+* **[Enterprise IDP & Dispatch Network](https://github.com/FaisalDipto/Enterprise-Identity-Provider-IdP-)**: Architected a centralized authentication and event routing system processing 10,000+ concurrent requests with sub-millisecond latency.
+* **[Zuka Sensei AI]()**: Built a decoupled, context-aware Chrome extension powered by a high-performance Go REST API to orchestrate multipart payloads and Generative AI Vision responses.
+* **[Production-Ready Todo API](https://github.com/FaisalDipto/Zuka-Sensei)**: Designed an enterprise-grade backend enforcing strict Standard Go Layout boundaries with a custom middleware chain and automated CI/CD pipelines.
+* **[LYFFLOW Social Automation](https://github.com/FaisalDipto/LYFFLOW-Project)**: Engineered a high-performance SaaS frontend integrating complex media handling into an API-driven React 19 dashboard.
 
 <br />
 
